@@ -61,4 +61,5 @@ Clone the repository to your local machine using the following command:
 ```sh
 git clone https://github.com/berito/cv_exercise_1.git
 cd cv_lab_exercise_1
+octave main.m
 
